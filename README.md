@@ -29,3 +29,12 @@ Full Stack Software Engineer from Hungary.
 ## :chart_with_upwards_trend:	 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=barthabrw&show_icons=true)
+
+
+## 🎮 Public Projects on Github
+
+| Project | Description | Actively maintained |
+| --- | --- | --- |
+| [Game Off 2020 - The Big Cheese](https://github.com/Game-Off-2020/the-big-cheese) | Moon themed multiplayer destructible terrain shooter for Game Off 2020 on Itch.io. | X |
+| [Threejs-Portal](https://github.com/BarthaBRW/Threejs-Portal) | Side project with WebGL, Three.js, OffscreenCanvas, Typescript, RxJs and stencil buffer with some math. | X |
+| [Flutter Settings Screen with Shared Preferences](https://github.com/BarthaBRW/shared_preferences_settings) | Published a Flutter plugin that helps other developers to create settings page widgets quickly and easily. | X |
