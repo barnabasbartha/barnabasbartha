@@ -29,5 +29,3 @@ Full Stack Software Engineer from Hungary.
 ## :chart_with_upwards_trend:	 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=barthabrw&show_icons=true)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=barthabrw.barthabrw)
