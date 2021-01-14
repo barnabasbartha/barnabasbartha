@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Barnabás
+
 Full Stack Software Engineer from Hungary.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barnabas-bartha/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0uryPOuCFOSTm5UyMIWXLA)
-
 
 ## ⚡ Technologies
 
@@ -26,15 +26,6 @@ Full Stack Software Engineer from Hungary.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=Arduino)
 
-## :chart_with_upwards_trend:	 Stats
+## :chart_with_upwards_trend:     Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=barthabrw&show_icons=true)
-
-
-## 🎮 Public Projects on Github
-
-| Project | Description | Actively maintained |
-| --- | --- | --- |
-| [Game Off 2020 - The Big Cheese](https://github.com/Game-Off-2020/the-big-cheese) | Moon themed multiplayer destructible terrain shooter for Game Off 2020 on Itch.io. | X |
-| [Threejs-Portal](https://github.com/BarthaBRW/Threejs-Portal) | Side project with WebGL, Three.js, OffscreenCanvas, Typescript, RxJs and stencil buffer with some math. | X |
-| [Flutter Settings Screen with Shared Preferences](https://github.com/BarthaBRW/shared_preferences_settings) | Published a Flutter plugin that helps other developers to create settings page widgets quickly and easily. | X |
